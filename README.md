@@ -1,10 +1,13 @@
 <h1 align="center">Hi 👋, I'm Kashaf Khan</h1>
 <h3 align="center">Frontend Developer • Cybersecurity Enthusiast • Pakistan 🇵🇰</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00FF9C&center=true&vCenter=true&width=600&lines=Frontend+Developer;Cybersecurity+Enthusiast;Building+Secure+Web+Experiences;Always+Learning+New+Things" />
+<p align="right">
+  <img src="https://user-images.githubusercontent.com/45157446/161337980-87a1b2e4-99ea-4fc8-ab1e-faa61357b40d.gif"
+       width="340"
+       style="border-radius: 16px; padding: 6px;
+       background: linear-gradient(135deg, #00ff9c, #00c3ff, #00ff9c);
+       box-shadow: 0 0 15px #00ff9c, 0 0 30px #00c3ff;" />
 </p>
-
 <img src="https://user-images.githubusercontent.com/45157446/161337980-87a1b2e4-99ea-4fc8-ab1e-faa61357b40d.gif"
      width="400"
      align="right">
