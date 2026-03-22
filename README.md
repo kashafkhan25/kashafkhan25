@@ -3,7 +3,7 @@
 
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00FF9C&size=22&center=true&vCenter=true&width=500&lines=Frontend+Developer;Cybersecurity+Learner;Building+Secure+Web+Apps;Always+Learning+New+Things" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FF9C&size=22&center=true&vCenter=true&width=500&lines=Frontend+Developer;Cybersecurity+Learner;Building+Secure+Web+Apps;Always+Learning" />
 </p>
 
 <!-- Profile Views -->
@@ -11,7 +11,7 @@
   <img src="https://komarev.com/ghpvc/?username=kashafkhan25&label=Profile%20views&color=00ff9c&style=flat" />
 </p>
 
-<!-- GIF -->
+<!-- Neon GIF -->
 <p align="center">
   <img src="https://user-images.githubusercontent.com/45157446/161337980-87a1b2e4-99ea-4fc8-ab1e-faa61357b40d.gif"
        width="300"
@@ -24,12 +24,12 @@
 
 ## 🧠 About Me
 
-- 🔭 Currently working on **LMS**
-- 🌱 Learning **C++ & Python**
-- 🤝 Exploring **Vibe Coding**
-- 📝 Writing about **Vibe Coding**
-- 💬 Ask me about **HTML, CSS, JavaScript**
-- 📫 Reach me at **0xkashaf@gmail.com**
+- 🔭 Currently working on **LMS**  
+- 🌱 Learning **C++ & Python**  
+- 🤝 Exploring **Vibe Coding**  
+- 📝 Writing about **Vibe Coding**  
+- 💬 Ask me about **HTML, CSS, JavaScript**  
+- 📫 Reach me at **0xkashaf@gmail.com**  
 
 ---
 
@@ -46,6 +46,12 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kashafkhan25&show_icons=true&theme=tokyonight&hide_border=true" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kashafkhan25&theme=tokyonight&hide_border=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=kashafkhan25&theme=tokyonight&no-frame=true&margin-w=10" />
+</p>
+
+<!-- Contribution Snake -->
+<p align="center">
+  <img src="https://github.com/kashafkhan25/github-contribution-grid-snake.svg" />
 </p>
 
 ---
