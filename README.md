@@ -10,7 +10,7 @@
      align="right">
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=kashafkhan25&label=Profile%20views&color=00ff9c&style=flat" alt="kashafkhan25" />
+  <img src="https://komarev.com/ghpvc/?username=kashafkhan25&label=Profile%20views&color=00ff9c&style=flat" />
 </p>
 
 ---
@@ -28,8 +28,8 @@
 
 ## 🔐 Developer Mindset
 
-```bash id="v9k2lq"
-> Focus: Frontend Development
-> Exploring: Cybersecurity
-> Goal: Build Secure & Scalable Applications
-> Status: Always Learning 🚀
+```bash
+> Role: Frontend Developer
+> Interest: Cybersecurity
+> Focus: Secure & Scalable Applications
+> Status: Learning • Building • Improving
