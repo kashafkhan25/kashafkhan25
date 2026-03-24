@@ -45,15 +45,13 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kashafkhan25&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kashafkhan25&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=kashafkhan25&theme=tokyonight&hide_border=true" />
   <img src="https://github-profile-trophy.vercel.app/?username=kashafkhan25&theme=tokyonight&no-frame=true&margin-w=10" />
 </p>
 
-<!-- Contribution Snake -->
 <p align="center">
-  <img src="https://github.com/kashafkhan25/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/kashafkhan25/kashafkhan25/output/github-contribution-grid-snake.svg" />
 </p>
-
 ---
 
 ## 🔐 Developer Mindset
