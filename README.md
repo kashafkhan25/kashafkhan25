@@ -44,12 +44,13 @@ Outside of web dev, I'm currently deepening my skills in **network analysis with
  
 > *(Replace these with your real project names and descriptions — check your Vercel dashboard for live links)*
  
+
 | Project | Description | Live |
-|--------|-------------|------|
+|---|---|---|
 | **cuts-guts-fitness-gym** | A modern, responsive frontend website built for Cuts & Guts Fitness Gym in Mian Channu, Pakistan, and deployed on Vercel. | [Live →](https://cuts-guts-fitness-gym.vercel.app/) |
-| **BZU-CyberCore** | An AI-powered Learning Management System (LMS) designed for the Department of Communication & Cyber Security at Bahauddin Zakariya University. 
-Admin: admin@lms.com | admin123Teacher: teacher@lms.com (or faculty@lms.com) | teacher123Student: student@lms.com | student123| [Live →](https://cys-batch-2025-2029-22wf.vercel.app/) |
-| **PhishSentinel** | An advanced threat intelligence and security operating system engineered for enterprise architecture defense. It features real-time global threat vector tracking, zero-day heuristic mitigation, and automated shield deployment protocols| [Live →](https://phishsentinel-alpha.vercel.app/) |
+| **BZU-CyberCore** | An AI-powered Learning Management System (LMS) designed for the Department of Communication & Cyber Security at Bahauddin Zakariya University.<br><br>**Admin:** `admin@lms.com` \| `admin123`<br>**Teacher:** `teacher@lms.com`  \| `teacher123`<br>**Student:** `student@lms.com` \| `student123` | [Live →](https://cys-batch-2025-2029-22wf.vercel.app/) |
+| **PhishSentinel** | An advanced threat intelligence and security operating system engineered for enterprise architecture defense. It features real-time global threat vector tracking, zero-day heuristic mitigation, and automated shield deployment protocols. | [Live →](https://phishsentinel-alpha.vercel.app/) |
+
  
 ---
  
